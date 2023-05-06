@@ -134,7 +134,7 @@ class BankAcc {
 
 public class AtmInterface {
     public static void main(String[] args) {
-        BankAcc ba = new BankAcc("Abhishek Kumar", "1456");
+        BankAcc ba = new BankAcc("Monu Kumar", "1456");
         ba.checkId();
 }
 
